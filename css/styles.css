@@ -12,8 +12,8 @@
   --examples-title-color: #2e2f42;
   --team-background-color: #f4f4fd;
   --team-title-color: #2e2f42;
-  --production-sub-title-color: #2e2f42;
-  --production-text-color: #434455;
+  --production-cards-title-color: #2e2f42;
+  --production-cards-text-color: #434455;
   --footer-color: #2e2f42;
   --logo-footer-span-color: #f4f4fd;
   --footer-text-color: #f4f4fd;
@@ -195,14 +195,14 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--production-sub-title-color);
+  color: var(--production-cards-title-color);
 }
 
 .production .cards .text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--production-text-color);
+  color: var(--production-cards-text-color);
 }
 
 .footer {
