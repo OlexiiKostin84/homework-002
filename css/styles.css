@@ -7,13 +7,9 @@
   --hero-background-color: #2e2f42;
   --button-hover-background-color: #404bbf;
   --button-hover-color: #ffffff;
-  --sub-title-color: #2e2f42;
-  --text-color: #434455;
-  --examples-title-color: #2e2f42;
   --team-background-color: #f4f4fd;
-  --team-title-color: #2e2f42;
-  --production-cards-title-color: #2e2f42;
-  --main-text-color: #434455;
+  --title-color: #2e2f42;
+  --text-color: #434455;
   --footer-color: #2e2f42;
   --logo-footer-span-color: #f4f4fd;
   --footer-text-color: #f4f4fd;
@@ -165,14 +161,6 @@ body {
 
 .team-cards {
   background-color: #ffffff;
-}
-
-.production .cards .title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--production-cards-title-color);
 }
 
 .footer {
