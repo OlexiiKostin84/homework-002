@@ -50,7 +50,7 @@ body {
   color: var(--address-link-color);
 }
 
-.nav-logo {
+.logo {
   font-family: "Raleway",
     sans-serif;
   font-weight: 800;
@@ -76,7 +76,7 @@ body {
 .nav-menu:focus,
 .address-menu:hover,
 .address-menu:focus {
-  color: var(--header-hover-focus-color);
+  color: #404bbf;
 }
 
 .hero {
