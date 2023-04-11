@@ -40,9 +40,12 @@ body {
   letter-spacing: 0.02em;
   color: var(--nav-link-color);
 }
+ 
+.address {
+  font-style: normal;
+}
 
 .address-menu {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -163,15 +166,6 @@ body {
 .team-cards {
   background-color: #ffffff;
 }
-
-.team-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--sub-title-color);
-}
-
 
 .footer {
   background-color: var(--footer-color);
