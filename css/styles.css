@@ -159,10 +159,19 @@ body {
 .team {
   background-color: var(--team-background-color);
 }
-
+ 
 .team-cards {
   background-color: #ffffff;
 }
+
+.team-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--sub-title-color);
+}
+
 
 .footer {
   background-color: var(--footer-color);
